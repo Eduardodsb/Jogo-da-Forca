@@ -1,0 +1,15 @@
+1
+Eduardo
+0
+2
+Taina
+800
+3
+Rafael
+300
+4
+Ricardo
+1000
+5
+play
+100
