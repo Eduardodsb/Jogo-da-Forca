@@ -1,5 +1,5 @@
 # Jogo-da-Forca
-Projeto de computação 1 (20018)
+Projeto de computação 1 (2016.2)
 
 Equipe:
 
